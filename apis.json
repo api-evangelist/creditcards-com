@@ -1,0 +1,49 @@
+{
+    "name": "CreditCards.com",
+    "description": "CreditCards.com features an award-winning news team which reports news about credit cards, debit cards and other aspects of personal finance. The staff recently won a Society of American Business Editors and Writers award for its coverage of the Credit...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28297-www-creditcards-com.jpg",
+    "tags": [
+        "api not found",
+        "financial services",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/creditcards-com\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "CreditCards.com",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28297-www-creditcards-com.jpg",
+            "humanURL": "https:\/\/www.creditcards.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/creditcards-com-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/creditcards-com"
+        },
+        {
+            "type": "Email",
+            "url": "support@creditcards.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/CreditCardsCom"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.creditcards.com"
+        }
+    ]
+}
